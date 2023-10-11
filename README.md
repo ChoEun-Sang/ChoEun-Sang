@@ -16,9 +16,13 @@
 [패스트캠퍼스] 핀테크 서비스 프론트엔드 과정 5기 : 2023.03.17 ~ 2023.10.10 (약 7개월)
 ```
 
+## My Project
+[오피스너 (기업연계 프로젝트 최우수작 선정)](https://github.com/livable-final/client)
+
 <br/>
 
   ![EunSang's github stats](https://github-readme-stats.vercel.app/api?username=ChoEun-Sang&show_icons=true)
+
 
 
 </div>
