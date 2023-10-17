@@ -3,6 +3,7 @@
   
 ![FE 개발자, 조은상입니다!](https://capsule-render.vercel.app/api?type=transparent&fontColor=008000&text=EunSang's&nbsp;GitHub&height=150&fontSize=60&desc=FE개발자,%20조은상입니다!&descAlignY=75&descAlign=60)
 
+</div>
   
 ## My Skills
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -17,28 +18,21 @@
 ```
 
 ## My Project
-[오피스너 (기업연계 프로젝트 최우수작 선정)](https://github.com/livable-final/client)
+🔗 [오피스너 (기업연계 우수 프로젝트 선정)](https://github.com/livable-final/client)
+> 빌딩 내 입주자 활성화를 위한 서비스
 
 <br/>
 
-  ![EunSang's github stats](https://github-readme-stats.vercel.app/api?username=ChoEun-Sang&show_icons=true)
+🔗 [푸디로그](https://github.com/FoodieLog/foodie-log-client)
+> 지도형 맛집 공유 및 추천 SNS 플랫폼
 
+<br/>
+<br/>
 
+<div align="center">
+  
+![EunSang's github stats](https://github-readme-stats.vercel.app/api?username=ChoEun-Sang&show_icons=true)
 
 </div>
 
 
-<!--
-**ChoEun-Sang/ChoEun-Sang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
