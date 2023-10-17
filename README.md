@@ -15,6 +15,10 @@
 > 지도형 맛집 공유 및 추천 SNS 플랫폼
 
 <br/>
+🔗 [SweetHome](https://github.com/FE5-TEAM9/sweethome)
+> 모던한 느낌의 라이프 스타일∙홈 인테리어 쇼핑몰
+
+<br/>
 
 ## My Skills
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
