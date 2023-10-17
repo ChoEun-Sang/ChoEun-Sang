@@ -16,7 +16,7 @@
 
 <br/>
 
-🔗 [SweetHome](https://github.com/FE5-TEAM9/sweethome)
+🔗 [SWEETHOME](https://github.com/FE5-TEAM9/sweethome)
 > 모던한 느낌의 라이프 스타일∙홈 인테리어 쇼핑몰
 
 <br/>
